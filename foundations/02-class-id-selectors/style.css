@@ -1,0 +1,18 @@
+.Odd {
+    background-color: #ff6e86;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#Second {
+    color: #4949ff;
+    font-size: 36px;
+}
+
+#Third {
+    font-size: 44px;
+}
+
+#Fourth {
+    background-color: #abff9a;
+    font-size: 44px;
+    font-weight: 700;
+}
